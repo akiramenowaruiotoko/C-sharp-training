@@ -22,13 +22,13 @@ namespace ClassSamples
             textBoxSing1.Text = cat.Sing();
 
             // setting concreate value to dog instance
-            dog.name = "ƒlƒR";
-            dog.color = "”’";
+            dog.name = "ƒCƒk";
+            dog.color = "’ƒ";
 
             // display value of dog instance in textbox
-            textBoxName1.Text = dog.name;
-            textBoxColor1.Text = dog.color;
-            textBoxSing1.Text = dog.Sing();
+            textBoxName2.Text = dog.name;
+            textBoxColor2.Text = dog.color;
+            textBoxSing2.Text = dog.Sing();
 
         }
     }
