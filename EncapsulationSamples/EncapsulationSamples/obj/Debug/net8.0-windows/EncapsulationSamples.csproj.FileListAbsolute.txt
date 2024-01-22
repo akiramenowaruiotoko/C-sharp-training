@@ -1,0 +1,17 @@
+C:\Users\akiramenowaruiotoko\Desktop\github\C-sharp-training\EncapsulationSamples\EncapsulationSamples\bin\Debug\net8.0-windows\EncapsulationSamples.exe
+C:\Users\akiramenowaruiotoko\Desktop\github\C-sharp-training\EncapsulationSamples\EncapsulationSamples\bin\Debug\net8.0-windows\EncapsulationSamples.deps.json
+C:\Users\akiramenowaruiotoko\Desktop\github\C-sharp-training\EncapsulationSamples\EncapsulationSamples\bin\Debug\net8.0-windows\EncapsulationSamples.runtimeconfig.json
+C:\Users\akiramenowaruiotoko\Desktop\github\C-sharp-training\EncapsulationSamples\EncapsulationSamples\bin\Debug\net8.0-windows\EncapsulationSamples.dll
+C:\Users\akiramenowaruiotoko\Desktop\github\C-sharp-training\EncapsulationSamples\EncapsulationSamples\bin\Debug\net8.0-windows\EncapsulationSamples.pdb
+C:\Users\akiramenowaruiotoko\Desktop\github\C-sharp-training\EncapsulationSamples\EncapsulationSamples\obj\Debug\net8.0-windows\EncapsulationSamples.Form1.resources
+C:\Users\akiramenowaruiotoko\Desktop\github\C-sharp-training\EncapsulationSamples\EncapsulationSamples\obj\Debug\net8.0-windows\EncapsulationSamples.csproj.GenerateResource.cache
+C:\Users\akiramenowaruiotoko\Desktop\github\C-sharp-training\EncapsulationSamples\EncapsulationSamples\obj\Debug\net8.0-windows\EncapsulationSamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akiramenowaruiotoko\Desktop\github\C-sharp-training\EncapsulationSamples\EncapsulationSamples\obj\Debug\net8.0-windows\EncapsulationSamples.AssemblyInfoInputs.cache
+C:\Users\akiramenowaruiotoko\Desktop\github\C-sharp-training\EncapsulationSamples\EncapsulationSamples\obj\Debug\net8.0-windows\EncapsulationSamples.AssemblyInfo.cs
+C:\Users\akiramenowaruiotoko\Desktop\github\C-sharp-training\EncapsulationSamples\EncapsulationSamples\obj\Debug\net8.0-windows\EncapsulationSamples.csproj.CoreCompileInputs.cache
+C:\Users\akiramenowaruiotoko\Desktop\github\C-sharp-training\EncapsulationSamples\EncapsulationSamples\obj\Debug\net8.0-windows\EncapsulationSamples.sourcelink.json
+C:\Users\akiramenowaruiotoko\Desktop\github\C-sharp-training\EncapsulationSamples\EncapsulationSamples\obj\Debug\net8.0-windows\EncapsulationSamples.dll
+C:\Users\akiramenowaruiotoko\Desktop\github\C-sharp-training\EncapsulationSamples\EncapsulationSamples\obj\Debug\net8.0-windows\refint\EncapsulationSamples.dll
+C:\Users\akiramenowaruiotoko\Desktop\github\C-sharp-training\EncapsulationSamples\EncapsulationSamples\obj\Debug\net8.0-windows\EncapsulationSamples.pdb
+C:\Users\akiramenowaruiotoko\Desktop\github\C-sharp-training\EncapsulationSamples\EncapsulationSamples\obj\Debug\net8.0-windows\EncapsulationSamples.genruntimeconfig.cache
+C:\Users\akiramenowaruiotoko\Desktop\github\C-sharp-training\EncapsulationSamples\EncapsulationSamples\obj\Debug\net8.0-windows\ref\EncapsulationSamples.dll
