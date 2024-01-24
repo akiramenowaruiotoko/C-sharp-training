@@ -63,6 +63,7 @@
 			buttonAnimal.TabIndex = 1;
 			buttonAnimal.Text = "Animal cookie";
 			buttonAnimal.UseVisualStyleBackColor = true;
+			buttonAnimal.Click += buttonAnimal_Click;
 			// 
 			// textBoxAnimalColor
 			// 
@@ -171,6 +172,7 @@
 			buttonCat.TabIndex = 16;
 			buttonCat.Text = "Cat cookie";
 			buttonCat.UseVisualStyleBackColor = true;
+			buttonCat.Click += buttonCat_Click;
 			// 
 			// Form1
 			// 
