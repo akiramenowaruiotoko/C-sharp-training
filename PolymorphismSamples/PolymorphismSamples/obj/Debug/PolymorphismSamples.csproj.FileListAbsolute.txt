@@ -1,0 +1,9 @@
+C:\Users\akiramenowaruiotoko\Desktop\github\C-sharp-training\PolymorphismSamples\PolymorphismSamples\bin\Debug\PolymorphismSamples.exe.config
+C:\Users\akiramenowaruiotoko\Desktop\github\C-sharp-training\PolymorphismSamples\PolymorphismSamples\bin\Debug\PolymorphismSamples.exe
+C:\Users\akiramenowaruiotoko\Desktop\github\C-sharp-training\PolymorphismSamples\PolymorphismSamples\bin\Debug\PolymorphismSamples.pdb
+C:\Users\akiramenowaruiotoko\Desktop\github\C-sharp-training\PolymorphismSamples\PolymorphismSamples\obj\Debug\PolymorphismSamples.csproj.AssemblyReference.cache
+C:\Users\akiramenowaruiotoko\Desktop\github\C-sharp-training\PolymorphismSamples\PolymorphismSamples\obj\Debug\PolymorphismSamples.Properties.Resources.resources
+C:\Users\akiramenowaruiotoko\Desktop\github\C-sharp-training\PolymorphismSamples\PolymorphismSamples\obj\Debug\PolymorphismSamples.csproj.GenerateResource.cache
+C:\Users\akiramenowaruiotoko\Desktop\github\C-sharp-training\PolymorphismSamples\PolymorphismSamples\obj\Debug\PolymorphismSamples.csproj.CoreCompileInputs.cache
+C:\Users\akiramenowaruiotoko\Desktop\github\C-sharp-training\PolymorphismSamples\PolymorphismSamples\obj\Debug\PolymorphismSamples.exe
+C:\Users\akiramenowaruiotoko\Desktop\github\C-sharp-training\PolymorphismSamples\PolymorphismSamples\obj\Debug\PolymorphismSamples.pdb
