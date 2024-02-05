@@ -33,27 +33,16 @@ namespace PolymorphismSamples
         /// </summary>
         private void InitializeComponent()
         {
-            this.pictureBoxDog = new System.Windows.Forms.PictureBox();
             this.label1 = new System.Windows.Forms.Label();
-            this.pictureBoxCat = new System.Windows.Forms.PictureBox();
-            this.pictureBoxBird = new System.Windows.Forms.PictureBox();
             this.buttonSing = new System.Windows.Forms.Button();
             this.buttonReset = new System.Windows.Forms.Button();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxDog)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxCat)).BeginInit();
+            this.pictureBoxBird = new System.Windows.Forms.PictureBox();
+            this.pictureBoxCat = new System.Windows.Forms.PictureBox();
+            this.pictureBoxDog = new System.Windows.Forms.PictureBox();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBoxBird)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxCat)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxDog)).BeginInit();
             this.SuspendLayout();
-            // 
-            // pictureBoxDog
-            // 
-            this.pictureBoxDog.Image = global::PolymorphismSamples.Properties.Resources.DogCookie;
-            this.pictureBoxDog.Location = new System.Drawing.Point(12, 33);
-            this.pictureBoxDog.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.pictureBoxDog.Name = "pictureBoxDog";
-            this.pictureBoxDog.Size = new System.Drawing.Size(222, 120);
-            this.pictureBoxDog.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBoxDog.TabIndex = 0;
-            this.pictureBoxDog.TabStop = false;
             // 
             // label1
             // 
@@ -64,16 +53,27 @@ namespace PolymorphismSamples
             this.label1.TabIndex = 1;
             this.label1.Text = "Animal Cookie";
             // 
-            // pictureBoxCat
+            // buttonSing
             // 
-            this.pictureBoxCat.Image = global::PolymorphismSamples.Properties.Resources.CatCookie;
-            this.pictureBoxCat.Location = new System.Drawing.Point(240, 33);
-            this.pictureBoxCat.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.pictureBoxCat.Name = "pictureBoxCat";
-            this.pictureBoxCat.Size = new System.Drawing.Size(222, 120);
-            this.pictureBoxCat.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBoxCat.TabIndex = 2;
-            this.pictureBoxCat.TabStop = false;
+            this.buttonSing.Location = new System.Drawing.Point(12, 174);
+            this.buttonSing.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.buttonSing.Name = "buttonSing";
+            this.buttonSing.Size = new System.Drawing.Size(678, 55);
+            this.buttonSing.TabIndex = 4;
+            this.buttonSing.Text = "sing";
+            this.buttonSing.UseVisualStyleBackColor = true;
+            this.buttonSing.Click += new System.EventHandler(this.buttonSing_Click);
+            // 
+            // buttonReset
+            // 
+            this.buttonReset.Location = new System.Drawing.Point(12, 258);
+            this.buttonReset.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.buttonReset.Name = "buttonReset";
+            this.buttonReset.Size = new System.Drawing.Size(678, 46);
+            this.buttonReset.TabIndex = 5;
+            this.buttonReset.Text = "Reset";
+            this.buttonReset.UseVisualStyleBackColor = true;
+            this.buttonReset.Click += new System.EventHandler(this.buttonReset_Click);
             // 
             // pictureBoxBird
             // 
@@ -86,31 +86,33 @@ namespace PolymorphismSamples
             this.pictureBoxBird.TabIndex = 3;
             this.pictureBoxBird.TabStop = false;
             // 
-            // buttonSing
+            // pictureBoxCat
             // 
-            this.buttonSing.Location = new System.Drawing.Point(12, 174);
-            this.buttonSing.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.buttonSing.Name = "buttonSing";
-            this.buttonSing.Size = new System.Drawing.Size(678, 55);
-            this.buttonSing.TabIndex = 4;
-            this.buttonSing.Text = "sing";
-            this.buttonSing.UseVisualStyleBackColor = true;
+            this.pictureBoxCat.Image = global::PolymorphismSamples.Properties.Resources.CatCookie;
+            this.pictureBoxCat.Location = new System.Drawing.Point(240, 33);
+            this.pictureBoxCat.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.pictureBoxCat.Name = "pictureBoxCat";
+            this.pictureBoxCat.Size = new System.Drawing.Size(222, 120);
+            this.pictureBoxCat.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBoxCat.TabIndex = 2;
+            this.pictureBoxCat.TabStop = false;
             // 
-            // buttonReset
+            // pictureBoxDog
             // 
-            this.buttonReset.Location = new System.Drawing.Point(12, 258);
-            this.buttonReset.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
-            this.buttonReset.Name = "buttonReset";
-            this.buttonReset.Size = new System.Drawing.Size(678, 46);
-            this.buttonReset.TabIndex = 5;
-            this.buttonReset.Text = "Reset";
-            this.buttonReset.UseVisualStyleBackColor = true;
+            this.pictureBoxDog.Image = global::PolymorphismSamples.Properties.Resources.DogCookie;
+            this.pictureBoxDog.Location = new System.Drawing.Point(12, 33);
+            this.pictureBoxDog.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.pictureBoxDog.Name = "pictureBoxDog";
+            this.pictureBoxDog.Size = new System.Drawing.Size(222, 120);
+            this.pictureBoxDog.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBoxDog.TabIndex = 0;
+            this.pictureBoxDog.TabStop = false;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(13F, 24F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 338);
+            this.ClientSize = new System.Drawing.Size(710, 338);
             this.Controls.Add(this.buttonReset);
             this.Controls.Add(this.buttonSing);
             this.Controls.Add(this.pictureBoxBird);
@@ -120,9 +122,9 @@ namespace PolymorphismSamples
             this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.Name = "Form1";
             this.Text = "AnimalCookie";
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxDog)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxCat)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBoxBird)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxCat)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBoxDog)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
