@@ -17,12 +17,12 @@ namespace PolymorphismSamples
             InitializeComponent();
         }
 
-        private void buttonSing_Click(object sender, EventArgs e)
+        private void ButtonSing_Click(object sender, EventArgs e)
         {
 
         }
 
-        private void buttonReset_Click(object sender, EventArgs e)
+        private void ButtonReset_Click(object sender, EventArgs e)
         {
 
         }

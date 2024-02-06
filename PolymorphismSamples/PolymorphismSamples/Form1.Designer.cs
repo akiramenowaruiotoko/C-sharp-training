@@ -62,7 +62,7 @@ namespace PolymorphismSamples
             this.buttonSing.TabIndex = 4;
             this.buttonSing.Text = "sing";
             this.buttonSing.UseVisualStyleBackColor = true;
-            this.buttonSing.Click += new System.EventHandler(this.buttonSing_Click);
+            this.buttonSing.Click += new System.EventHandler(this.ButtonSing_Click);
             // 
             // buttonReset
             // 
@@ -73,7 +73,7 @@ namespace PolymorphismSamples
             this.buttonReset.TabIndex = 5;
             this.buttonReset.Text = "Reset";
             this.buttonReset.UseVisualStyleBackColor = true;
-            this.buttonReset.Click += new System.EventHandler(this.buttonReset_Click);
+            this.buttonReset.Click += new System.EventHandler(this.ButtonReset_Click);
             // 
             // pictureBoxBird
             // 
