@@ -5,7 +5,7 @@ using System.Xml.Linq;
 
 namespace PolymorphismSamples
 {
-    partial class Form1
+    partial class FormCookie
     {
         /// <summary>
         ///  Required designer variable.

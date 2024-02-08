@@ -6,4 +6,4 @@ C:\Users\akiramenowaruiotoko\Desktop\github\C-sharp-training\PolymorphismSamples
 C:\Users\akiramenowaruiotoko\Desktop\github\C-sharp-training\PolymorphismSamples\PolymorphismSamples\obj\Debug\PolymorphismSamples.csproj.CoreCompileInputs.cache
 C:\Users\akiramenowaruiotoko\Desktop\github\C-sharp-training\PolymorphismSamples\PolymorphismSamples\obj\Debug\PolymorphismSamples.exe
 C:\Users\akiramenowaruiotoko\Desktop\github\C-sharp-training\PolymorphismSamples\PolymorphismSamples\obj\Debug\PolymorphismSamples.pdb
-C:\Users\akiramenowaruiotoko\Desktop\github\C-sharp-training\PolymorphismSamples\PolymorphismSamples\obj\Debug\PolymorphismSamples.Form1.resources
+C:\Users\akiramenowaruiotoko\Desktop\github\C-sharp-training\PolymorphismSamples\PolymorphismSamples\obj\Debug\PolymorphismSamples.FormCookie.resources
